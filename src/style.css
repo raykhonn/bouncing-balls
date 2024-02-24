@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+body {
+  margin: 0;
+  overflow: hidden;
+  width: 1300px;
+  height: 100%;
+}
